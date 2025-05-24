@@ -1,0 +1,5 @@
+2025-05-23 20:36:37 - BinanceRedPacket - INFO - Iniciando aplicación
+2025-05-23 20:36:37 - BinanceRedPacket - INFO - ✅ CANJE EXITOSO - Código: ABC123 - 0.001 BTC | code=ABC123 | amount=0.001 | currency=BTC | wallet=mi_wallet
+2025-05-23 20:36:37 - BinanceRedPacket - WARNING - ⚠️  CÓDIGO DUPLICADO - ABC123 ya fue procesado anteriormente | code=ABC123 | source=telegram
+2025-05-23 20:36:37 - BinanceRedPacket - ERROR - ❌ CÓDIGO INVÁLIDO - INVALID123: Formato incorrecto | code=INVALID123 | reason=Formato incorrecto
+2025-05-23 20:36:37 - BinanceRedPacket - ERROR - ❌ ERROR DE API - Código: XYZ789 | Status: 429 | code=XYZ789 | status_code=429 | response=Rate limit exceeded
